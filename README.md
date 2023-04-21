@@ -5,3 +5,6 @@ Project Objective: This final capstone project was assigned as a final project a
 Link to my project's data story on Tableau public: https://public.tableau.com/views/Capstone_16815719353850/Capstone?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 This project was completed by topics learned in the University of Chicago's Fullstack Academy Data Analytics Bootcamp course. I used Excel, Python and Tableau to complete my analysis.
+
+The link to the final dataset can be found below via Google drive:
+https://drive.google.com/file/d/1txiGj1mkXk4tNSgPwmb7ewi1jn0K2kQ4/view?usp=sharing
